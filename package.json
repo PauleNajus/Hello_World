@@ -12,8 +12,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach"
-    "start": "react-scripts start",
+    "start": "pm2 start index.js --deep-monitoring --attach",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
